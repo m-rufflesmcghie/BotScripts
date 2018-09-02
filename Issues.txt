@@ -1,0 +1,11 @@
+IF YOU ARE HAVING A ISSUE WITH ANY TREBLE ROM, DONT TAG ME OTHERWISE ILL WARN YOU AND BE PISSED OFF. REGISTER IS ON GITHUB WITH LOGS, OTHERWISE IT WILL BE IGNORED AND CLOSED.
+The GitHub for registering the issues it: https://github.com/Motorola-Common/android_device_motorola_cedric/issues 
+Steps to do it:
+* Check if it was already posted (duplicates will be closed)
+* Logs should be attached (posted on gist, otherwise the issue will be closed)
+* The title format should be: LineageTrebleBuildDate: ROM: issue you are having
+* The discription should be the full log on gist (https://gist.github.com), and steps to  reproduce the issue.
+* Each issue should be posted individually 
+* If you don't know how to take logs, use #log here
+* DONT TAG ME ON TELEGRAM
+* IF YOU DIRTYFLASHED, MENTION IT
