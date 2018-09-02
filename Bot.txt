@@ -1,0 +1,31 @@
+Marie Help Guide
+
+Welcome
+
+
+
+Notes
+
+#Links
+/save Links
+Useful links for Android & Cedric
+[Google](buttonurl:http://www.google.com)
+  
+#XDA
+/save XDA
+Useful XDA links
+[XDA](buttonurl:http://www.xda.com)
+[XDA Cedric](buttonurl:http://www.xda.com/moto-g5/)
+[XDA Treble](buttonurl:https://forum.xda-developers.com/project-treble/trebleenabled-device-development/)
+
+#DevLinks
+/save DevLinks
+Useful links for Developers
+[GIT](buttonurl:http://www.github.com)
+[Cedric Device Tree]
+
+#ROMS
+
+
+
+
