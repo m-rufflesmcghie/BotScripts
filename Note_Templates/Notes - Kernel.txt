@@ -1,0 +1,9 @@
+/save Kernels
+XDA & Download Links for Cedric Kernels
+[*Kernels*](buttonurl://https://forum.xda-developers.com/g5/how-to#kernels)
+[Radium](buttonurl://https://forum.xda-developers.com/g5/development/kernel-t3696498)
+[Download](buttonurl://https://github.com/m-rufflesmcghie/BotScripts/raw/master/Files/RADIUM_KAOSP_KERNEL_ALL_ROMS.zip:same)
+[Alize](buttonurl://https://forum.xda-developers.com/g5/development/kernel-alize-t3727691)
+[Download](buttonurl://https://github.com/m-rufflesmcghie/BotScripts/raw/master/Files/Alize-8.x_vTen-64bit_CEDRIC.zip:same)
+[FlyHigh](buttonurl://https://forum.xda-developers.com/g5/development/kernel-flyhigh-underclock-t3712320)
+[Download](buttonurl://https://github.com/m-rufflesmcghie/BotScripts/raw/master/Files/FlyHigh-1.2.zip:same)
